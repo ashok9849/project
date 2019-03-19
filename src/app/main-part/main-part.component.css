@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding : 0px;
+    margin:0px;
+  } 
+ 
+  
+  .main-part{
+    background-color:white;
+  }
+  .leftbar{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .dd input{
+    margin-left:10px;width:200px
+  }
+  .dd{
+    margin-top:20px;
+    padding:5px;
+  } .d1{
+    margin-top:20px;
+    padding:5px;
+  
+  }
+  .d1:hover { 
+    background-color:#2a69dd;
+  }
+  
+
+  .fa-plus{
+    padding:5px;
+  }
+  .back{
+    background-color:#a1edd3;
+    
+  }
+  .fa-minus{
+    padding:5px;
+  }
+  .d2{
+    margin-top:20px;
+    padding:5px;
+  }
+  
+  .rightbar{
+    background-color:#daefef;
+    height:690px;
+    margin-top:0px;
+    max-width:100%;
+
+  
+  }
+  .right{
+    background-color:white;
+    margin-left:20px;
+    margin-right:20px;
+    height:700px;
+  }
+  .a1{
+    float:left;
+    margin:10px;
+    margin-left:50px;
+  }
+  .a1 input {
+    width:360px;
+    padding:10px;
+  }
+  .btn{
+    float:right; 
+    margin-bottom:40px; 
+  }
+  .btn1{
+      float:right;
+  }
+  .btn1 button{
+    padding:10px;
+    margin:5px;
+    margin-left:10px;
+  }
+
+  .data{
+    margin:20px;
+  }
+  .t1{
+    float:right;
+    margin-left:10px;
+  }
+  .fa-trash-o{
+    color:#ef041c;
+    font-size:20px;
+    line-height:20px;
+    display:block;
+    margin-left:10px;
+  }
+  .fa-pencil{
+    color:#f7b654;
+    font-size:20px;
+    line-height:20px;
+    margin-left:10px;
+    margin-top:5px;
+  }
+  .fa-plus{
+    color:green;
+    margin-right:5px;
+  }
+  .fa-cog{
+    color:red;
+    margin-right:10px;
+  }
+  .table td th {
+    text-align:center;
+  }

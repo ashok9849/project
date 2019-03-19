@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding : 0px;
+    margin:0px;
+  } 
+.footer{
+    background-color: #eaecef;
+    height:40px;
+    padding:10px;
+}
+.col-sm-6{
+    float:right;
+}
+.row{
+    margin-right: 0 impartent!;
+}
